@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ShikiNoTsuna/portfolio-website-shiki#readme",
   "devDependencies": {
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^4.3.1"
   }
 }
